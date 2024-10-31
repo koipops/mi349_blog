@@ -1,4 +1,11 @@
+main {
+    padding: 20px;
+}
 
+img {
+    padding: 5px;
+    border: 1px solid #c8c6af
+}
 
 body {
     font-family: Arial, sans-serif;
@@ -62,10 +69,11 @@ p {
 }
 
 input[type="text"], input[type="email"], textarea, select {
-    width: 100%;
-    padding: 12px;
+    width: 70%;
+    padding: 10px;
     margin: 8px 0;
     border: 1px solid #bd897e;
+    box-sizing: border-box;
 }
 
 form {
