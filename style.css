@@ -48,3 +48,55 @@ p {
     color: #333;
 }
 
+.highlight {
+    background-color: #c8c6af;
+    padding: 5px;
+}
+
+#main-title {
+    font-size: 2em;
+    color: #f87666;
+    text-align: center;
+}
+
+form {
+    max-width: 500;
+    margin: 10px;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #c8c6af;
+}
+
+button {
+    background-color: #95a78d;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #bd897e;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 10px 0;
+    background-color: #d7d0c8;
+}
+
+th, td {
+    padding: 10px;
+    border: 5px solid #c8c6af;
+}
+
+th {
+    background-color: #95a78d;
+    color: white;
+}
+
+footer p {
+    font-size: 1em;
+    color: #c8c6af;
+}
