@@ -2,6 +2,13 @@ main {
     padding: 20px;
 }
 
+sticky-nav {
+    position: sticky;
+    top: 0;
+    background-color: #95a78d;
+    z-index: 1000;
+}
+
 img {
     padding: 5px;
     border: 1px solid #c8c6af
