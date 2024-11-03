@@ -150,3 +150,10 @@ footer p {
     background-color: #C8C6AF;
     border: 1px solid #95A78D;
 }
+
+.left-column {
+    flex: 2;
+}
+.right-column {
+    flex: 1;
+}
