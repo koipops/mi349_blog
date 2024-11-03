@@ -135,3 +135,18 @@ footer p {
     font-size: 0.9em;
     color: #C8C6AF;
 }
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+
+.flex-column {
+    flex: 1;
+    margin: 10px;
+    padding: 15px;
+    background-color: #C8C6AF;
+    border: 1px solid #95A78D;
+}
